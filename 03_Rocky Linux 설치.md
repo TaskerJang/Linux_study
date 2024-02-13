@@ -54,16 +54,16 @@
 
 ![img_19.png](Image/img30.png)
 
-쉬프트 + 스페이스 => 한영 키보드 전환
+### 쉬프트 + 스페이스 => 한영 키보드 전환
 
 ![img_20.png](Image/img31.png)
 
-해상도 고정 =>
+### 해상도 고정 =>
 
 ![img_21.png](Image/img32.png)
 
 
-스냅샷 설정하기
+### 스냅샷 설정하기
 
 ![img_22.png](Image/img33.png)
 
